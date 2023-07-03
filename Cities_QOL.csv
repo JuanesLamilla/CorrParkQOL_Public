@@ -1,0 +1,246 @@
+level_0,index,City,Quality of Life Index,Purchasing Power Index,Safety Index,Health Care Index,Cost of Living Index,Property Price to Income Ratio,Traffic Commute Time Index,Pollution Index,Climate Index,Origin,Country,Population,Total_Parking_Area,Park_Ways,Park_Nodes,Park_Relations,Continent,Region 1,Region 2,Total_Contributors,Country_Population
+0,79,Coimbatore,126.9,47.2,60.4,68.7,21.2,7.8,47.2,63.3,78.1,"Coimbatore, India",India,959823,0.0,0,0,0,Asia,Southern Asia,,275801.0,1407563842.0
+1,81,Chennai,113.0,61.8,60.1,70.0,22.8,12.0,47.3,74.3,53.2,"Chennai District, India",India,11564000,124827.64880934858,65,42,2,Asia,Southern Asia,,275801.0,1407563842.0
+2,82,Ahmedabad,112.4,38.6,67.7,65.4,24.4,9.0,39.6,72.4,49.3,"Ahmedabad City Taluka, India",India,7717000,128508.1598114346,30,3,0,Asia,Southern Asia,,275801.0,1407563842.0
+3,55,Copenhagen,185.7,89.4,73.6,77.7,82.4,9.3,28.4,21.2,83.7,"Copenhagen Municipality, Denmark",Denmark,1085000,1583127.2016454712,2257,121,8,Europe,Northern Europe,,95791.0,5856733.0
+4,170,Taipei,149.0,74.8,84.8,86.4,57.2,30.0,34.7,49.5,84.4,"Taipei, Taiwan",Taiwan,2684567,2095666.5750911303,1083,283,32,Asia,South-eastern Asia,,65329.0,23568378.0
+5,85,Kolkata,99.6,56.6,53.4,57.9,22.6,8.8,59.7,78.4,60.9,"Kolkata, India",India,18698000,41980.80864316596,11,1,0,Asia,Southern Asia,,275801.0,1407563842.0
+6,4,Perth,171.6,92.2,58.2,71.3,80.1,8.2,40.9,27.2,95.7,"Perth, Australia",Australia,2039200,164051.09570612447,35,7,0,Oceania,Australia and New Zealand,,199884.0,25688079.0
+7,5,Canberra,171.4,72.3,73.9,72.9,89.0,9.3,35.1,23.2,82.7,"Canberra, Australia",Australia,381488,164051.09570612447,35,7,0,Oceania,Australia and New Zealand,,199884.0,25688079.0
+8,80,Hyderabad,119.4,56.6,57.1,65.1,25.3,8.1,42.1,76.0,73.5,"Hyderabad, India",India,1732693,131225.47937747778,44,40,0,Asia,Southern Asia,,275801.0,1407563842.0
+9,83,Gurgaon,111.3,84.0,45.1,60.2,27.5,6.7,36.7,91.5,59.9,"Gurgaon, India",India,197340,848821.8431035074,73,35,0,Asia,Southern Asia,,275801.0,1407563842.0
+10,84,Noida,109.3,82.6,44.6,64.5,26.2,4.8,45.0,92.4,58.9,"Noida, India",India,637272,848821.8431035074,73,35,0,Asia,Southern Asia,,275801.0,1407563842.0
+11,110,Guadalajara,125.1,45.8,37.4,79.7,40.4,8.5,41.6,62.1,92.8,"Guadalajara, Mexico",Mexico,5437000,488442.9455728853,77,31,1,North America,Central America,Latin America and the Caribbean,177507.0,126705138.0
+12,11,Dhaka,56.8,25.4,36.6,40.2,29.1,15.8,61.0,93.5,71.3,"Dhaka, Bangladesh",Bangladesh,16839000,148569.74269286572,89,24,1,Asia,Southern Asia,,60300.0,169356251.0
+13,77,Pune,137.4,90.8,57.7,66.3,24.1,7.5,43.7,70.9,74.3,"Pune, India",India,7948000,171926.57992513358,102,28,1,Asia,Southern Asia,,275801.0,1407563842.0
+14,113,Casablanca,90.4,34.5,45.1,44.8,33.4,14.7,46.8,82.7,98.1,"Casablanca, Morocco",Morocco,4370000,526346.9046845973,102,16,0,Africa,Northern Africa,,33450.0,37076584.0
+15,165,Colombo,69.6,15.1,58.1,71.9,32.0,39.4,60.9,61.4,59.1,"Colombo, Sri Lanka",Sri Lanka,752993,205765.5795288332,114,38,2,Asia,Southern Asia,,40421.0,22156000.0
+16,166,Gothenburg,178.4,97.5,53.4,68.5,61.2,8.4,25.3,20.0,77.5,"Gothenburg, Sweden",Sweden,604829,205765.5795288332,114,38,2,Europe,Northern Europe,,170271.0,10415811.0
+17,114,Kathmandu,71.0,18.7,63.0,55.8,27.9,36.4,36.4,95.7,92.6,"Kathmandu, Nepal",Nepal,975453,181616.0718328649,123,30,1,Asia,Southern Asia,,87274.0,30034989.0
+18,87,Mumbai,77.2,48.6,54.8,65.3,25.7,33.6,55.1,83.7,71.5,"Mumbai, India",India,22186000,333525.2148763944,125,44,0,Asia,Southern Asia,,275801.0,1407563842.0
+19,40,Santiago,99.2,33.3,38.7,65.5,51.7,18.8,37.5,70.5,90.2,"Santiago, Chile",Chile,7026000,142401.08381857394,129,47,1,South America,South America,Latin America and the Caribbean,68116.0,19493184.0
+20,244,Ho Chi Minh City,65.4,29.1,47.5,59.9,36.9,34.2,31.4,92.2,63.4,"Ho Chi Minh City, Vietnam",Vietnam,13954000,370046.4780731695,144,65,0,Asia,South-eastern Asia,,78569.0,97468029.0
+21,0,Tirana,89.9,29.4,58.2,48.0,41.1,18.0,38.5,86.3,86.4,"Tirana, Albania",Albania,418495,147056.55550771413,145,41,1,Europe,Southern Europe,,14143.0,2811666.0
+22,73,Hong Kong,100.4,64.7,78.6,65.8,75.6,45.5,42.4,67.2,83.6,"Hong Kong, Hong Kong (China)",Hong Kong (China),7398000,273768.35151651286,154,109,10,Asia,Eastern Asia,,20853.0,7413100.0
+23,243,Hanoi,99.1,35.3,62.0,57.1,36.8,17.9,28.4,89.0,79.0,"Hanoi, Vietnam",Vietnam,8246600,695651.9177367884,187,73,2,Asia,South-eastern Asia,,78569.0,97468029.0
+24,35,Kelowna,161.5,92.9,38.4,73.8,63.7,6.0,29.6,25.6,59.7,"Kelowna, Canada",Canada,142146,934128.8148556178,208,22,2,North America,Northern America,,238681.0,38246108.0
+25,241,Montevideo,129.3,38.6,44.5,68.4,60.4,12.3,37.4,47.2,98.0,"Montevideo, Uruguay",Uruguay,1319108,401019.1711088846,212,41,3,South America,South America,Latin America and the Caribbean,11652.0,3426260.0
+26,41,Qingdao,161.8,79.4,89.1,77.5,31.4,18.2,27.9,50.5,70.4,"Qingdao, Shandong, China",China,5775000,1793993.8240232198,228,29,2,Asia,Eastern Asia,,169586.0,1412360000.0
+27,86,Delhi,83.9,58.8,40.8,65.2,24.8,14.2,57.3,90.6,58.9,"Delhi, India",India,31870000,994971.6935185002,249,64,0,Asia,Southern Asia,,275801.0,1407563842.0
+28,130,Lima,79.3,31.5,29.4,58.2,35.9,17.6,51.0,85.8,97.7,"Lima, Peru",Peru,8992000,257912.53385182784,254,73,0,South America,South America,Latin America and the Caribbean,65231.0,33715471.0
+29,121,Lagos,46.1,7.0,32.5,46.3,38.0,14.7,67.4,89.3,60.8,"Lagos, Nigeria",Nigeria,15487000,1760673.910291835,262,1,1,Africa,Western Africa,Sub-Saharan Africa,74557.0,213401323.0
+30,126,Islamabad,138.4,27.0,68.9,64.2,16.7,11.6,34.7,41.3,76.9,"Islamabad, Pakistan",Pakistan,1014825,1118024.9588538809,264,24,1,Asia,Southern Asia,,27764.0,231402117.0
+31,127,Lahore,105.2,21.9,63.5,62.5,17.3,11.3,34.7,78.7,67.6,"Lahore, Pakistan",Pakistan,11148000,1118024.9588538809,264,24,1,Asia,Southern Asia,,27764.0,231402117.0
+32,128,Karachi,78.2,21.9,45.1,57.0,17.2,17.1,42.2,89.8,71.3,"Karachi, Pakistan",Pakistan,15292000,1118024.9588538809,264,24,1,Asia,Southern Asia,,27764.0,231402117.0
+33,129,Panama City,112.1,34.5,52.1,60.8,51.8,11.3,32.8,62.8,67.8,"Panama City, Panama",Panama,880691,1118024.9588538809,264,24,1,North America,Central America,Latin America and the Caribbean,9966.0,4351267.0
+34,49,Rijeka,165.4,52.8,74.3,64.6,45.5,12.6,18.9,35.6,94.9,"Rijeka, Croatia",Croatia,128624,314825.5473619323,290,4,0,Europe,Southern Europe,,61445.0,3899000.0
+35,15,Sarajevo,122.1,51.7,54.4,59.0,38.9,12.5,28.1,67.5,78.2,"Sarajevo, Bosnia And Herzegovina",Bosnia And Herzegovina,275524,541695.7777852075,318,108,1,Europe,Southern Europe,,26309.0,3270943.0
+36,131,Manila,40.7,24.5,34.7,63.7,38.8,41.6,53.6,89.9,61.2,"Manila, Philippines",Philippines,23971000,481456.8723825436,325,41,8,Asia,South-eastern Asia,,175544.0,113880328.0
+37,18,Campinas,126.4,35.0,33.5,61.3,37.7,12.8,28.4,46.5,98.9,"Campinas, Brazil",Brazil,1164098,1480005.9136749192,339,50,2,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+38,45,Medellin,121.9,34.3,44.5,78.6,25.3,15.0,38.7,62.9,99.8,"Medellin, Colombia",Colombia,2529403,576792.9005227003,342,44,5,South America,South America,Latin America and the Caribbean,91825.0,51516562.0
+39,72,Guatemala City,93.3,22.8,35.7,64.1,43.3,14.9,49.8,72.8,99.9,"Guatemala City, Guatemala",Guatemala,2934841,988068.2909833632,343,156,6,North America,Central America,Latin America and the Caribbean,30529.0,17109746.0
+40,20,Belo Horizonte,107.5,24.6,36.3,63.9,35.7,18.9,43.4,52.0,98.5,"Belo Horizonte, Brazil",Brazil,5159000,903476.7906769252,350,58,18,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+41,48,Split,167.0,55.2,68.6,69.5,45.9,15.6,16.1,31.5,96.3,"Split, Croatia",Croatia,178102,626031.8497588015,351,73,1,Europe,Southern Europe,,61445.0,3899000.0
+42,78,Bangalore,133.8,107.9,46.2,66.8,25.7,5.7,52.8,81.6,89.4,"Bangalore, India",India,13999000,931264.632785369,365,188,3,Asia,Southern Asia,,275801.0,1407563842.0
+43,173,Bursa,149.3,29.5,70.8,78.3,35.3,10.7,33.0,44.5,93.4,"Bursa, Turkey",Turkey,211644,1480954.9063378284,371,28,0,Asia,Western Asia,,89063.0,84775404.0
+44,162,Valencia,178.2,74.8,67.9,79.8,49.4,6.4,24.6,37.9,93.8,"Valencia, Spain",Spain,1484430,1158360.53382946,391,126,2,Europe,Southern Europe,,398246.0,47415750.0
+45,143,Iasi,129.7,47.9,69.2,56.3,36.5,11.7,33.7,58.3,73.0,"Iasi, Romania",Romania,290422,595777.3531275815,397,328,1,Europe,Eastern Europe,,82547.0,19119880.0
+46,2,Yerevan,117.4,25.4,78.2,55.9,43.2,16.4,31.0,58.7,63.4,"Yerevan, Armenia",Armenia,1075800,685095.6642670342,409,66,6,Asia,Western Asia,,16867.0,2790974.0
+47,169,Geneva,179.1,105.9,69.7,72.4,107.3,13.1,27.7,25.5,82.6,"Geneva, Switzerland",Switzerland,201818,312106.1460054456,410,51,2,Europe,Western Europe,,217772.0,8703405.0
+48,29,Halifax,170.3,92.1,58.6,67.3,67.0,5.0,30.6,23.2,59.0,"Halifax, Canada",Canada,403131,1453888.7007674775,411,93,8,North America,Northern America,,238681.0,38246108.0
+49,27,Victoria,171.5,82.8,59.4,66.6,75.6,13.2,32.4,17.9,92.5,"Victoria, Canada",Canada,335696,526817.9657536718,414,8,96,North America,Northern America,,238681.0,38246108.0
+50,24,Varna,137.6,49.7,63.7,62.4,40.4,8.7,28.9,60.3,85.1,"Varna, Bulgaria",Bulgaria,347924,645185.8387934935,418,195,1,Europe,Eastern Europe,,44150.0,6877743.0
+51,233,Miami,152.2,90.2,47.1,63.8,81.3,5.6,43.1,39.4,85.7,"Miami, FL, United States",United States,6445545,1635847.0039526906,424,19,8,North America,Northern America,,1367882.0,331893745.0
+52,140,Doha,158.5,102.6,85.9,73.6,58.3,6.4,29.8,59.8,36.0,"Doha, Qatar",Qatar,1186023,3465306.7207629974,432,74,3,Asia,Western Asia,,5433.0,2688235.0
+53,104,Beirut,63.3,11.0,53.1,64.7,77.6,35.0,39.8,93.7,94.7,"Beirut, Lebanon",Lebanon,361366,766574.4975342466,437,45,2,Asia,Western Asia,,15878.0,5592631.0
+54,164,Barcelona,139.7,69.1,49.7,77.4,57.7,11.4,29.7,65.4,95.7,"Barcelona, Spain",Spain,4735000,1090456.0511396218,454,297,27,Europe,Southern Europe,,398246.0,47415750.0
+55,57,Cairo,80.2,19.4,49.8,45.9,22.5,12.1,50.1,91.3,88.5,"Cairo, Egypt",Egypt,19787000,2014622.0227702367,465,65,0,Africa,Northern Africa,,39941.0,109262178.0
+56,101,Nairobi,94.3,31.6,41.0,62.3,32.7,13.7,53.8,79.7,99.8,"Nairobi, Kenya",Kenya,5545000,1284333.8805224143,481,89,0,Africa,Eastern Africa,Sub-Saharan Africa,47823.0,53005614.0
+57,102,Kuwait City,114.6,77.9,70.0,58.7,46.9,15.0,32.4,68.8,20.2,"Kuwait City, Kuwait",Kuwait,2989000,1284333.8805224143,481,89,0,Asia,Western Asia,,4438.0,4250114.0
+58,14,Brussels,144.5,92.9,45.7,73.9,68.6,6.6,36.7,61.7,83.8,"Brussels, Belgium",Belgium,1743000,716288.1186717399,486,33,6,Europe,Western Europe,,204465.0,11592952.0
+59,1,Buenos Aires,100.7,31.1,37.0,68.9,32.3,27.5,49.8,52.4,98.3,"Buenos Aires, Argentina",Argentina,16216000,1130605.8021568833,496,462,12,South America,South America,Latin America and the Caribbean,123203.0,45808747.0
+60,141,Timisoara,151.9,54.1,75.7,72.3,37.1,10.8,23.8,56.2,82.0,"Timisoara, Romania",Romania,319279,1059175.6020030864,500,24,1,Europe,Eastern Europe,,82547.0,19119880.0
+61,88,Jakarta,73.2,30.9,47.5,56.6,35.5,20.9,51.4,84.9,63.8,"Jakarta, Indonesia",Indonesia,35362000,1845626.0186597337,504,128,1,Asia,South-eastern Asia,,288726.0,273753191.0
+62,70,Thessaloniki,115.8,38.5,46.7,55.0,57.3,11.6,28.9,63.9,88.4,"Thessaloniki, Greece",Greece,315196,1299539.5263320685,527,217,6,Europe,Southern Europe,,93326.0,10641221.0
+63,71,Athens,115.4,40.0,44.2,56.9,60.2,13.9,38.1,57.3,95.2,"Athens, Greece",Greece,664046,1299539.5263320685,527,217,6,Europe,Southern Europe,,93326.0,10641221.0
+64,61,Paris,122.8,76.9,42.9,78.8,76.1,19.5,41.5,63.9,88.4,"Paris, France",France,11027000,487606.274447532,528,228,16,Europe,Western Europe,,981992.0,67749632.0
+65,122,Skopje,100.7,36.8,53.5,54.8,36.6,15.0,28.1,83.1,76.3,"Skopje, North Macedonia",North Macedonia,640000,828806.9711229459,528,33,1,Europe,Southern Europe,,9784.0,2065092.0
+66,92,Tel Aviv-Yafo,151.5,80.3,73.0,74.4,79.2,20.5,36.7,47.2,93.9,"Tel Aviv-Yafo, Israel",Israel,451523,1422237.1641049597,529,55,0,Asia,Western Asia,,39191.0,9364000.0
+67,98,Amman,115.4,33.7,61.4,65.0,48.5,8.2,42.0,75.6,89.0,"Amman, Jordan",Jordan,4007526,1563853.349495569,539,16,4,Asia,Western Asia,,10780.0,11148278.0
+68,19,Porto Alegre,111.2,27.6,27.9,63.3,36.7,15.0,31.3,56.4,98.7,"Porto Alegre, Brazil",Brazil,1484941,1686871.174297694,541,73,29,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+69,52,Limassol,140.6,50.8,60.2,51.4,60.3,8.7,19.8,56.5,95.7,"Limassol, Cyprus",Cyprus,235056,922332.6259862568,551,115,3,Asia,Western Asia,,14215.0,1244188.0
+70,100,Almaty,81.6,33.0,36.9,47.7,34.3,13.5,39.3,78.1,58.3,"Almaty, Kazakhstan",Kazakhstan,1916822,1489853.383200231,554,55,17,Asia,Central Asia,,46497.0,19000988.0
+71,236,Las Vegas,147.5,109.6,44.3,55.0,73.7,3.7,27.1,52.5,57.4,"Las Vegas, NV, United States",United States,2104198,2405620.356546562,573,62,3,North America,Northern America,,1367882.0,331893745.0
+72,142,Cluj-Napoca,147.7,53.2,77.6,64.8,42.7,14.7,29.6,43.9,74.3,"Cluj-Napoca, Romania",Romania,324576,770922.6783273066,586,87,3,Europe,Eastern Europe,,82547.0,19119880.0
+73,51,Nicosia,146.0,64.1,70.0,54.5,55.4,7.1,25.1,59.9,86.0,"Nicosia, Cyprus",Cyprus,330000,1226521.5040850048,612,88,12,Asia,Western Asia,,14215.0,1244188.0
+74,62,Tbilisi,111.0,23.7,74.2,54.3,43.9,14.7,36.6,72.0,84.2,"Tbilisi, Georgia",Georgia,1118035,1194136.0464021878,624,189,10,Asia,Western Asia,,26551.0,3708610.0
+75,107,Luxembourg,199.7,122.9,73.0,78.6,73.1,11.5,26.8,19.2,82.6,"Luxembourg, Luxembourg",Luxembourg,128512,750630.0101049006,615,76,2,Europe,Western Europe,,22266.0,640064.0
+76,99,Astana (Nur-Sultan),122.2,44.5,66.2,67.3,32.8,7.6,32.3,53.5,21.3,"Astana (Nur-Sultan), Kazakhstan",Kazakhstan,1136008,1643854.3663108654,618,178,3,Asia,Central Asia,,46497.0,19000988.0
+77,210,Buffalo,172.4,104.0,53.1,73.0,78.5,6.4,25.4,30.2,66.4,"Buffalo, NY, United States",United States,914341,2097977.94436368,625,23,5,North America,Northern America,,1367882.0,331893745.0
+78,125,Muscat,177.1,85.0,80.1,59.4,49.1,4.3,20.5,35.5,67.2,"Muscat, Oman",Oman,1421409,2999696.40391566,632,48,1,Asia,Western Asia,,8085.0,4520471.0
+79,42,Shenzhen,116.4,79.5,71.4,58.0,43.1,39.0,35.7,60.5,81.8,"Shenzhen, China",China,14678000,3147745.9606665964,633,216,6,Asia,Eastern Asia,,169586.0,1412360000.0
+80,56,Quito,114.0,32.2,38.1,71.7,36.1,12.8,40.9,64.1,99.0,"Quito, Ecuador",Ecuador,2011388,1266599.401006859,649,267,0,South America,South America,Latin America and the Caribbean,60477.0,17797737.0
+81,21,Recife,85.7,34.0,23.7,62.5,34.7,18.0,46.5,69.7,79.3,"Recife, Brazil",Brazil,1653461,1482117.7151428007,652,22,10,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+82,180,Odessa (Odesa),104.0,30.7,46.2,50.4,27.8,15.2,36.6,62.4,79.0,"Odessa (Odesa), Ukraine",Ukraine,993120,1252881.8320395695,663,24,4,Europe,Eastern Europe,,275715.0,43792855.0
+83,234,Honolulu,151.9,74.8,52.4,72.5,103.5,9.2,41.3,37.3,95.3,"Honolulu, HI, United States",United States,820987,1763527.172480726,673,36,7,North America,Northern America,,1367882.0,331893745.0
+84,181,Dnipro,96.1,33.8,46.8,52.9,27.9,12.3,32.6,80.7,69.5,"Dnipro, Ukraine",Ukraine,980948,1226998.0793673317,680,48,24,Europe,Eastern Europe,,275715.0,43792855.0
+85,10,Baku,110.8,32.4,69.3,46.9,31.1,14.3,37.4,74.9,91.4,"Baku, Azerbaijan",Azerbaijan,2181800,1626671.1870431488,680,26,1,Asia,Western Asia,,16899.0,10137750.0
+86,186,Cambridge,179.3,98.5,70.5,74.9,68.2,10.3,34.3,32.2,91.4,"Cambridge, United Kingdom",United Kingdom,129920,820174.9303052773,690,183,4,Europe,Northern Europe,,640418.0,67326569.0
+87,187,Glasgow,176.7,103.7,54.5,81.9,63.7,6.7,32.1,35.8,84.8,"Glasgow, United Kingdom",United Kingdom,626410,820174.9303052773,690,183,4,Europe,Northern Europe,,640418.0,67326569.0
+88,188,Belfast,168.1,84.3,54.4,70.3,62.4,7.1,39.1,27.4,90.8,"Belfast, United Kingdom",United Kingdom,333871,820174.9303052773,690,183,4,Europe,Northern Europe,,640418.0,67326569.0
+89,171,Chiang Mai,126.9,30.5,76.0,84.1,36.1,14.5,25.1,77.4,75.9,"Chiang Mai, Thailand",Thailand,132634,1580565.1594207769,699,320,8,Asia,South-eastern Asia,,87665.0,71601103.0
+90,242,Caracas,62.9,10.1,16.5,38.4,43.3,27.7,33.3,74.0,99.9,"Caracas, Venezuela",Venezuela,1943901,1692267.6422930567,709,87,49,South America,South America,Latin America and the Caribbean,22187.0,28199867.0
+91,17,Brasilia,135.6,39.7,39.9,51.4,39.1,13.5,30.1,32.0,99.0,"Plano Piloto, Regiao Geografica Imediata do Distrito Federal, Regiao Integrada de Desenvolvimento do Distrito Federal e Entorno, Regiao Geografica Intermediaria do Distrito Federal, Federal District, Central-West Region, Brazil",Brazil,3015268,2918423.88154496,768,83,3,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+92,16,Curitiba,139.0,36.6,37.9,66.8,35.7,13.5,32.4,32.0,99.6,"Curitiba, Brazil",Brazil,1879355,1808394.2580838616,779,60,10,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+93,94,Turin,131.4,66.5,47.6,66.4,60.9,8.2,28.1,68.7,85.7,"Turin, Italy",Italy,870952,1620983.0829260251,804,108,8,Europe,Southern Europe,,605081.0,59109668.0
+94,108,Kuala Lumpur,121.0,78.5,37.4,68.1,37.7,6.9,41.5,65.7,56.6,"Kuala Lumpur, Malaysia",Malaysia,8639000,2555465.1507477704,838,113,6,Asia,South-eastern Asia,,65575.0,33573874.0
+95,109,Monterrey,126.3,52.3,52.1,68.8,44.7,7.7,31.7,70.5,80.4,"Monterrey, Mexico",Mexico,1135512,2555465.1507477704,838,113,6,North America,Central America,Latin America and the Caribbean,177507.0,126705138.0
+96,60,Lyon,149.8,88.2,46.3,78.3,74.4,9.4,35.9,52.0,88.5,"Lyon, France",France,518635,795379.3021945066,843,64,7,Europe,Western Europe,,981992.0,67749632.0
+97,194,Orlando,175.0,125.3,48.9,63.5,72.0,4.5,36.6,36.1,87.2,"Orlando, FL, United States",United States,1822394,4448234.646513209,856,14,25,North America,Northern America,,1367882.0,331893745.0
+98,47,San Jose,112.4,35.4,44.4,63.1,54.8,10.5,64.0,51.5,99.5,"San Jose, Costa Rica",Costa Rica,1798103,1626614.9389664829,909,92,27,North America,Central America,Latin America and the Caribbean,17316.0,5153957.0
+99,184,Sharjah,126.3,40.8,84.6,59.7,46.1,6.5,54.7,48.3,43.3,"Sharjah, United Arab Emirates",United Arab Emirates,1247749,2496376.9255299466,914,21,4,Asia,Western Asia,,22213.0,9365145.0
+100,228,Salt Lake City,164.3,126.8,66.5,70.4,65.6,3.6,35.1,63.5,66.5,"Salt Lake City, UT, United States",United States,1098526,4351080.432000696,944,77,17,North America,Northern America,,1367882.0,331893745.0
+101,237,San Francisco,142.5,107.0,38.6,64.0,100.0,8.6,50.9,50.3,97.3,"San Francisco, CA, United States",United States,3592294,2025275.1469237893,953,83,6,North America,Northern America,,1367882.0,331893745.0
+102,32,Regina,168.0,142.7,47.3,65.8,59.9,2.6,17.0,40.0,14.3,"Regina, Canada",Canada,215106,2789399.022789904,974,4,5,North America,Northern America,,238681.0,38246108.0
+103,116,Eindhoven,206.3,116.3,77.4,78.1,68.0,5.6,24.4,21.2,85.4,"Eindhoven, Netherlands",Netherlands,231642,1637181.934899229,993,82,6,Europe,Western Europe,,260977.0,17533044.0
+104,138,Lisbon,146.6,42.2,70.4,72.4,52.1,20.5,35.4,35.9,98.6,"Lisbon, Portugal",Portugal,506654,1490975.4228655112,996,188,33,Europe,Southern Europe,,104264.0,10325147.0
+105,178,Kharkiv,108.7,36.3,51.1,48.1,25.2,12.7,38.2,57.2,65.4,"Kharkiv, Ukraine",Ukraine,1446107,2174309.160352557,1014,95,22,Europe,Eastern Europe,,275715.0,43792855.0
+106,179,Kiev (Kyiv),104.9,36.5,54.9,57.6,31.8,15.6,43.1,64.9,70.0,"Kiev (Kyiv), Ukraine",Ukraine,2963199,2174309.160352557,1014,95,22,Europe,Eastern Europe,,275715.0,43792855.0
+107,172,Bangkok,80.1,28.4,59.7,77.1,48.2,32.5,45.5,77.1,58.4,"Bangkok, Thailand",Thailand,17573000,2290634.287436297,1033,188,1,Asia,South-eastern Asia,,87665.0,71601103.0
+108,90,Cork,168.4,84.0,64.3,55.9,69.1,5.9,35.4,28.7,89.8,"Cork, Ireland",Ireland,208669,1578694.9481799386,1047,74,0,Europe,Northern Europe,,68106.0,5033165.0
+109,89,Tehran,60.1,18.0,44.1,52.7,32.3,30.5,52.5,80.7,71.0,"Tehran, Iran",Iran,13819000,7286054.251396658,1059,116,3,Asia,Southern Asia,,118140.0,87923432.0
+110,112,Chisinau,115.6,32.8,56.4,51.0,35.5,11.5,28.2,63.8,76.9,"Chisinau, Moldova",Moldova,639000,596186.1738577257,1066,430,36,Europe,Eastern Europe,,22032.0,2615199.0
+111,93,Bologna,138.0,59.8,52.8,77.4,66.6,11.0,32.1,58.5,88.1,"Bologna, Italy",Italy,389261,1532955.2421254502,1067,122,13,Europe,Southern Europe,,605081.0,59109668.0
+112,115,The Hague (Den Haag),215.4,125.2,78.7,79.9,62.5,5.7,22.9,19.2,90.6,"The Hague (Den Haag), Netherlands",Netherlands,537833,1231132.8304915114,1078,151,7,Europe,Western Europe,,260977.0,17533044.0
+113,23,Rio de Janeiro,67.7,21.3,22.4,45.3,40.8,24.6,51.3,67.9,88.2,"Rio de Janeiro, Brazil",Brazil,12486000,3880470.620241,1077,280,46,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+114,215,Pittsburgh,170.6,121.3,62.2,74.1,76.2,5.2,38.1,46.3,72.1,"Pittsburgh, PA, United States",United States,1703266,2506253.1736607933,1101,21,10,North America,Northern America,,1367882.0,331893745.0
+115,231,Oakland,154.3,93.3,32.6,78.7,94.8,8.5,37.7,39.2,96.4,"Oakland, CA, United States",United States,433031,3342288.759178283,1104,46,8,North America,Northern America,,1367882.0,331893745.0
+116,13,Antwerp,152.9,84.1,59.8,81.0,68.8,6.8,37.9,58.4,85.4,"Antwerp, Belgium",Belgium,529247,1929776.420626185,1125,78,9,Europe,Western Europe,,204465.0,11592952.0
+117,174,Izmir,134.0,31.2,68.2,73.0,32.2,11.2,40.1,59.4,96.9,"Izmir, Turkey",Turkey,329052,2535143.639914968,1136,67,4,Asia,Western Asia,,89063.0,84775404.0
+118,117,Rotterdam,198.1,110.1,68.6,79.5,65.9,5.6,24.6,25.1,87.9,"Rotterdam, Netherlands",Netherlands,631155,1995716.4624815844,1145,70,8,Europe,Western Europe,,260977.0,17533044.0
+119,213,Spokane,171.4,100.7,43.8,64.7,72.0,4.1,23.7,23.7,67.1,"Spokane, WA, United States",United States,412275,2829809.61053309,1153,18,24,North America,Northern America,,1367882.0,331893745.0
+120,43,Shanghai,85.2,56.4,69.4,64.1,46.9,49.1,46.4,72.9,83.6,"Shanghai, China",China,22118000,7040354.177873656,1159,135,6,Asia,Eastern Asia,,169586.0,1412360000.0
+121,150,Riyadh,150.0,98.2,73.5,64.7,53.5,3.2,31.6,63.7,44.4,"Riyadh, Saudi Arabia",Saudi Arabia,6889000,14478027.376475682,1185,351,4,Asia,Western Asia,,26907.0,35950396.0
+122,151,Jeddah (Jiddah),148.4,87.8,71.9,59.6,52.5,3.2,30.6,67.3,66.2,"Jeddah (Jiddah), Saudi Arabia",Saudi Arabia,3976000,14478027.376475682,1185,351,4,Asia,Western Asia,,26907.0,35950396.0
+123,105,Kaunas,162.2,58.3,61.9,74.5,49.1,10.5,23.6,26.5,68.9,"Kaunas, Lithuania",Lithuania,288466,1880295.1411286765,1230,52,21,Europe,Northern Europe,,40412.0,2800839.0
+124,152,Novi Sad,127.7,39.3,58.6,50.1,38.1,17.2,18.2,52.8,84.0,"Novi Sad, Serbia",Serbia,380000,1594165.3756485484,1238,11,4,Europe,Southern Europe,,39934.0,6834326.0
+125,227,Atlanta,164.3,124.4,36.2,69.6,74.3,3.2,41.7,44.8,89.7,"Atlanta, GA, United States",United States,5449398,3810202.0499794846,1248,22,33,North America,Northern America,,1367882.0,331893745.0
+126,145,Nizhny Novgorod,142.6,39.4,71.3,75.7,35.7,15.5,27.6,32.1,45.5,"Nizhny Novgorod, Russia",Russia,1257260,2577327.0931378584,1265,69,402,Europe,Eastern Europe,,845431.0,143449286.0
+127,221,Boston,167.7,107.5,60.7,74.5,85.9,7.8,45.0,30.8,71.7,"Boston, MA, United States",United States,4688346,3113219.0051575145,1266,65,10,North America,Northern America,,1367882.0,331893745.0
+128,137,Porto,159.1,48.8,65.0,75.9,48.6,12.8,29.5,34.5,96.6,"Porto, Portugal",Portugal,237591,721765.0265210695,1274,231,3,Europe,Southern Europe,,104264.0,10325147.0
+129,190,Bristol,164.5,94.2,58.0,74.4,64.7,9.8,30.2,45.0,88.5,"Bristol, United Kingdom",United Kingdom,567111,1639213.4081694505,1290,24,10,Europe,Northern Europe,,640418.0,67326569.0
+130,182,Abu Dhabi,176.0,111.7,88.3,71.3,56.9,5.1,28.9,46.1,43.9,"Abu Dhabi, United Arab Emirates",United Arab Emirates,1483000,4974515.870918187,1295,73,16,Asia,Western Asia,,22213.0,9365145.0
+131,139,San Juan,114.7,45.3,30.9,63.0,73.2,7.8,37.5,50.8,71.2,"San Juan, Puerto Rico",Puerto Rico,471389,3070725.632564849,1296,8,7,North America,Caribbean,Latin America and the Caribbean,18983.0,3263584.0
+132,30,Vancouver,169.6,87.3,60.0,73.7,69.8,13.1,36.4,25.4,91.2,"Vancouver, Canada",Canada,2264823,1775586.750598676,1304,44,14,North America,Northern America,,238681.0,38246108.0
+133,31,Quebec City,168.1,96.9,83.7,70.2,67.9,9.9,32.9,35.3,48.0,"Quebec City, Canada",Canada,705103,1775586.750598676,1304,44,14,North America,Northern America,,238681.0,38246108.0
+134,168,Zurich,189.1,116.7,80.9,72.8,122.7,12.4,33.9,19.0,81.5,"Zurich, Switzerland",Switzerland,434008,486355.8086018713,1334,235,4,Europe,Western Europe,,217772.0,8703405.0
+135,177,Lviv,130.4,39.3,61.2,61.0,26.8,12.0,32.1,49.1,69.6,"Lviv, Ukraine",Ukraine,724314,1241145.3796806436,1354,84,21,Europe,Eastern Europe,,275715.0,43792855.0
+136,195,Tampa,174.7,116.7,54.1,66.4,75.3,4.6,37.6,34.3,84.7,"Tampa, FL, United States",United States,2908063,6129000.520833057,1379,35,11,North America,Northern America,,1367882.0,331893745.0
+137,218,Sacramento,169.3,113.8,50.6,68.4,85.0,6.1,27.0,46.5,90.6,"Sacramento, CA, United States",United States,1898019,5018496.892768641,1395,11,5,North America,Northern America,,1367882.0,331893745.0
+138,34,Edmonton,163.5,100.0,53.9,77.7,69.1,3.4,29.1,30.5,32.1,"Edmonton, Canada",Canada,1062643,5056839.73011029,1429,46,15,North America,Northern America,,238681.0,38246108.0
+139,192,Manchester,150.6,91.0,45.1,79.1,63.7,7.3,39.9,53.1,86.9,"Manchester, United Kingdom",United Kingdom,547627,3098363.8073033406,1445,45,18,Europe,Northern Europe,,640418.0,67326569.0
+140,153,Belgrade,106.8,34.6,61.8,53.2,43.0,20.5,36.2,66.7,84.1,"Belgrade, Serbia",Serbia,1378682,2019734.8766881688,1448,111,3,Europe,Southern Europe,,39934.0,6834326.0
+141,208,Cincinnati,172.6,113.8,51.9,68.8,63.0,2.6,24.7,44.1,73.2,"Cincinnati, OH, United States",United States,1662691,4514679.060195895,1457,24,28,North America,Northern America,,1367882.0,331893745.0
+142,198,San Antonio,174.4,133.7,50.9,67.4,67.7,4.4,32.4,46.5,80.6,"San Antonio, TX, United States",United States,2049293,8801743.476476278,1480,14,23,North America,Northern America,,1367882.0,331893745.0
+143,225,Baltimore,165.9,134.7,24.4,75.6,74.3,1.0,31.2,50.4,81.2,"Baltimore, MD, United States",United States,2106068,5382628.954284134,1506,24,26,North America,Northern America,,1367882.0,331893745.0
+144,175,Ankara,132.4,39.8,61.0,69.1,32.6,7.3,36.2,65.3,91.5,"Ankara, Turkey",Turkey,5663322,3924992.2694044113,1532,168,16,Asia,Western Asia,,89063.0,84775404.0
+145,201,Charlotte,173.5,108.0,53.4,69.5,80.4,3.5,36.8,33.3,84.0,"Charlotte, NC, United States",United States,1512923,7127490.839227207,1537,23,69,North America,Northern America,,1367882.0,331893745.0
+146,25,Sofia,123.5,56.4,58.1,57.5,45.6,10.7,30.5,68.9,76.0,"Sofia, Bulgaria",Bulgaria,1277411,2400280.035178401,1554,204,3,Europe,Eastern Europe,,44150.0,6877743.0
+147,220,Nashville,168.1,107.2,53.6,64.9,80.2,3.9,39.0,35.7,83.0,"Nashville, TN, United States",United States,1081903,5318077.095302697,1567,27,15,North America,Northern America,,1367882.0,331893745.0
+148,191,Birmingham,153.3,102.6,37.2,72.3,58.7,9.4,33.2,48.8,87.7,"Birmingham, United Kingdom",United Kingdom,1137100,2768227.027423685,1582,103,12,Europe,Northern Europe,,640418.0,67326569.0
+149,66,Frankfurt,177.3,110.9,55.4,76.8,69.2,11.2,25.7,34.1,84.7,"Frankfurt, Germany",Germany,764104,2783117.506970169,1618,278,13,Europe,Western Europe,,2320615.0,83196078.0
+150,144,Bucharest,118.9,54.9,71.8,54.5,44.1,10.5,41.1,75.7,75.6,"Bucharest, Romania",Romania,1883425,3082755.943950768,1641,1095,4,Europe,Eastern Europe,,82547.0,19119880.0
+151,207,San Jose,172.8,138.9,51.7,70.4,86.0,8.2,38.5,49.0,95.5,"San Jose, CA, United States",United States,1798103,8654280.792240677,1748,19,27,North America,Northern America,,1367882.0,331893745.0
+152,118,Amsterdam,188.5,105.5,68.8,74.1,65.7,9.6,25.4,27.1,87.5,"Amsterdam, Netherlands",Netherlands,862965,2421074.3686448126,1764,152,6,Europe,Western Europe,,260977.0,17533044.0
+153,119,Wellington,170.9,71.1,67.6,66.9,75.6,13.2,34.5,19.0,97.7,"Wellington, New Zealand",New Zealand,418500,2280443.4041936034,1790,306,58,Oceania,Australia and New Zealand,,54527.0,5122600.0
+154,111,Mexico City,86.6,36.0,32.0,65.6,43.6,16.0,52.2,81.6,92.4,"Mexico City, Mexico",Mexico,21505000,6124466.438095152,1794,292,8,North America,Central America,Latin America and the Caribbean,177507.0,126705138.0
+155,229,Saint Louis,162.9,102.6,29.5,80.9,67.3,4.1,27.2,38.5,74.8,"Saint Louis, MO, United States",United States,293310,4933244.760963956,1850,11,45,North America,Northern America,,1367882.0,331893745.0
+156,46,Bogota,91.0,28.8,34.0,65.0,25.5,20.4,52.3,70.1,97.1,"Bogota, Colombia",Colombia,7743955,5136323.236293448,1858,356,6,South America,South America,Latin America and the Caribbean,91825.0,51516562.0
+157,156,Ljubljana,164.5,58.3,78.3,66.2,54.6,14.9,27.3,23.8,76.1,"Ljubljana, Slovenia",Slovenia,286745,2022010.1326554008,1868,118,81,Europe,Southern Europe,,39855.0,2108079.0
+158,157,Cape Town,145.0,73.2,26.4,68.3,34.4,6.8,42.7,39.0,98.2,"Cape Town, South Africa",South Africa,433688,2022010.1326554008,1868,118,81,Africa,Southern Africa,Sub-Saharan Africa,62678.0,59392255.0
+159,158,Durban,139.3,74.3,19.0,58.4,34.0,3.4,26.1,53.0,95.6,"Durban, South Africa",South Africa,595061,2022010.1326554008,1868,118,81,Africa,Southern Africa,Sub-Saharan Africa,62678.0,59392255.0
+160,159,Pretoria,138.6,91.6,18.1,66.1,34.9,1.9,45.5,56.0,95.8,"Pretoria, South Africa",South Africa,741651,2022010.1326554008,1868,118,81,Africa,Southern Africa,Sub-Saharan Africa,62678.0,59392255.0
+161,160,Johannesburg,132.6,89.4,19.2,60.3,38.1,2.6,40.7,60.9,91.4,"Johannesburg, South Africa",South Africa,4434827,2022010.1326554008,1868,118,81,Africa,Southern Africa,Sub-Saharan Africa,62678.0,59392255.0
+162,95,Milan,115.4,53.0,51.0,71.7,72.6,19.1,36.0,67.5,88.1,"Milan, Italy",Italy,1366180,2821937.0689485944,1942,202,17,Europe,Southern Europe,,605081.0,59109668.0
+163,183,Dubai,168.5,111.1,83.7,68.4,65.5,4.0,37.0,49.2,50.3,"Dubai, United Arab Emirates",United Arab Emirates,2502715,13336286.158273255,1995,404,13,Asia,Western Asia,,22213.0,9365145.0
+164,123,Trondheim,182.5,93.2,79.1,75.9,87.8,10.5,29.1,19.6,66.7,"Trondheim, Norway",Norway,183378,1919052.4904565604,2006,90,24,Europe,Northern Europe,,103908.0,5408320.0
+165,91,Dublin,137.4,74.5,47.7,51.3,77.0,10.1,40.4,41.0,85.9,"Dublin, Ireland",Ireland,553165,1730603.3180819105,2025,116,9,Europe,Northern Europe,,68106.0,5033165.0
+166,37,Toronto,146.3,83.6,57.5,75.3,71.3,13.4,44.7,37.3,65.3,"Toronto, Canada",Canada,5429524,2317176.467901184,2086,461,4,North America,Northern America,,238681.0,38246108.0
+167,223,Anchorage,166.9,111.3,38.1,61.2,86.1,2.5,26.8,15.7,41.6,"Anchorage, AK, United States",United States,288000,6374922.350958807,2106,43,18,North America,Northern America,,1367882.0,331893745.0
+168,211,Oklahoma City,172.2,95.1,49.3,69.6,72.7,4.1,29.9,26.9,77.6,"Oklahoma City, OK, United States",United States,972943,8799102.621931715,2111,15,37,North America,Northern America,,1367882.0,331893745.0
+169,106,Vilnius,162.1,57.4,72.1,74.0,51.8,13.4,27.5,24.5,66.6,"Vilnius, Lithuania",Lithuania,574147,3167210.1968691368,2129,86,30,Europe,Northern Europe,,40412.0,2800839.0
+170,154,Singapore,150.5,89.9,67.2,71.0,85.8,15.2,41.6,33.1,57.5,"Singapore, Singapore",Singapore,5271000,6803196.395953316,2195,545,94,Asia,South-eastern Asia,,26124.0,5453566.0
+171,217,Madison,170.1,91.3,65.4,75.4,72.6,8.1,28.9,25.1,51.6,"Madison, WI, United States",United States,447245,5550347.224945918,2198,40,32,North America,Northern America,,1367882.0,331893745.0
+172,65,Stuttgart,179.2,126.1,67.7,73.0,63.5,9.6,32.7,43.5,81.1,"Stuttgart, Germany",Germany,630305,2261782.383918101,2208,261,18,Europe,Western Europe,,2320615.0,83196078.0
+173,189,Leeds,166.6,99.7,57.2,81.8,62.9,11.3,30.2,45.1,84.6,"Leeds, United Kingdom",United Kingdom,789194,3929113.931503336,2229,292,30,Europe,Northern Europe,,640418.0,67326569.0
+174,199,Dallas,174.1,132.1,48.6,66.2,77.1,2.9,35.6,42.6,81.9,"Dallas, TX, United States",United States,5743938,9138425.98623821,2237,38,20,North America,Northern America,,1367882.0,331893745.0
+175,149,Novosibirsk,83.2,35.6,52.3,56.9,37.8,14.8,40.0,70.1,16.1,"Novosibirsk, Russia",Russia,1602915,2573074.8685019,2269,102,32,Europe,Eastern Europe,,845431.0,143449286.0
+176,75,Reykjavik,187.3,88.6,76.1,67.9,87.4,7.3,21.5,14.3,68.8,"Reykjavik, Iceland",Iceland,128793,2275306.667437287,2447,62,61,Europe,Northern Europe,,16140.0,372520.0
+177,76,Mangalore,139.9,43.4,74.2,62.0,20.0,8.8,35.4,49.8,66.7,"Mangalore, India",India,623841,2275306.667437287,2447,62,61,Asia,Southern Asia,,275801.0,1407563842.0
+178,54,Brno,156.8,68.0,74.2,74.1,50.8,16.1,26.1,43.3,78.2,"Brno, Czech Republic",Czech Republic,382405,2184410.0165599035,2449,78,28,Europe,Eastern Europe,,164137.0,10505772.0
+179,103,Riga,146.5,53.6,61.5,61.0,54.0,8.8,31.4,37.6,74.7,"Riga, Latvia",Latvia,614618,3250857.897016336,2453,239,82,Europe,Northern Europe,,32290.0,1884490.0
+180,204,Portland,173.2,109.7,44.5,72.6,83.5,5.0,33.5,32.6,89.6,"Portland, OR, United States",United States,2074775,6712522.218863733,2530,52,16,North America,Northern America,,1367882.0,331893745.0
+181,163,Madrid,158.9,79.9,70.0,79.8,54.6,11.3,35.1,51.2,85.5,"Madrid, Spain",Spain,6006000,5280283.061980842,2582,356,14,Europe,Southern Europe,,398246.0,47415750.0
+182,232,Philadelphia,154.2,125.6,34.8,68.4,79.2,3.9,40.1,52.4,78.0,"Philadelphia, PA, United States",United States,5649300,8582076.970672118,2591,62,35,North America,Northern America,,1367882.0,331893745.0
+183,148,Yekaterinburg,97.1,57.7,53.8,52.2,39.6,9.0,37.8,73.5,21.3,"Yekaterinburg, Russia",Russia,1468833,4619258.722975117,2597,130,51,Europe,Eastern Europe,,845431.0,143449286.0
+184,196,Austin,174.6,122.5,59.2,67.6,74.4,6.1,35.2,40.8,82.1,"Austin, TX, United States",United States,1687311,12724651.651074424,2598,36,21,North America,Northern America,,1367882.0,331893745.0
+185,26,Calgary,172.7,108.9,63.2,74.6,71.4,4.8,30.4,24.3,33.1,"Calgary, Canada",Canada,1239220,10286975.901783433,2599,107,24,North America,Northern America,,238681.0,38246108.0
+186,64,Dusseldorf,179.5,108.0,65.5,73.1,66.8,10.1,30.8,33.4,86.4,"Dusseldorf, Germany",Germany,645923,3696011.2537213024,2661,238,25,Europe,Western Europe,,2320615.0,83196078.0
+187,3,Brisbane,172.1,90.2,64.2,74.5,83.3,10.8,42.0,27.7,98.1,"Brisbane, Australia",Australia,2360241,5452231.387886025,2682,272,55,Oceania,Australia and New Zealand,,199884.0,25688079.0
+188,219,Minneapolis,169.0,121.7,44.7,77.2,75.8,5.6,35.9,27.5,49.5,"Minneapolis, MN, United States",United States,2977172,4266342.005965783,2717,10,18,North America,Northern America,,1367882.0,331893745.0
+189,197,Jacksonville,174.4,132.8,42.9,69.2,69.0,4.9,35.9,41.2,87.8,"Jacksonville, FL, United States",United States,1181496,10863735.451118575,2792,20,92,North America,Northern America,,1367882.0,331893745.0
+190,124,Oslo,177.6,98.6,66.7,78.9,82.4,10.0,28.1,21.7,60.0,"Oslo, Norway",Norway,693494,2076641.618052614,2817,194,71,Europe,Northern Europe,,103908.0,5408320.0
+191,167,Stockholm,162.8,92.5,53.9,66.1,69.4,14.0,35.2,18.4,69.7,"Stockholm, Sweden",Sweden,975819,2655019.00312422,2831,217,23,Europe,Northern Europe,,170271.0,10415811.0
+192,44,Beijing,80.8,60.7,71.7,68.0,45.3,46.0,43.4,80.3,57.6,"Beijing, China",China,19437000,18596303.66211316,2839,400,11,Asia,Eastern Asia,,169586.0,1412360000.0
+193,50,Zagreb,155.0,54.7,77.7,63.7,51.4,14.9,32.0,33.7,82.2,"Zagreb, Croatia",Croatia,790017,2623719.451907712,2955,89,24,Europe,Southern Europe,,61445.0,3899000.0
+194,132,Gdansk,140.6,64.2,68.5,52.5,40.4,14.3,30.3,48.0,75.5,"Gdansk, Poland",Poland,464254,2984457.4188901703,2989,64,4,Europe,Eastern Europe,,497557.0,37747124.0
+195,36,Montreal,157.5,95.4,68.4,63.2,64.0,8.5,40.1,33.9,52.4,"Montreal, Canada",Canada,3519595,7523716.45634438,2993,465,43,North America,Northern America,,238681.0,38246108.0
+196,6,Adelaide,170.9,70.8,68.1,72.8,89.2,8.8,35.2,25.3,95.0,"Adelaide, Australia",Australia,1295714,7038571.175485475,3083,131,20,Oceania,Australia and New Zealand,,199884.0,25688079.0
+197,176,Istanbul,102.6,31.1,52.4,69.6,39.8,19.1,51.6,69.1,93.0,"Istanbul, Turkey",Turkey,15311000,7966857.749695773,3115,503,26,Asia,Western Asia,,89063.0,84775404.0
+198,9,Vienna,200.5,112.7,73.4,79.2,63.4,10.8,24.4,16.3,81.8,"Vienna, Austria",Austria,1911191,4111519.612907564,3149,422,30,Europe,Western Europe,,290109.0,8955797.0
+199,205,Seattle,173.2,119.1,46.9,71.8,93.2,5.7,42.7,31.3,91.7,"Seattle, WA, United States",United States,3789215,4100327.097306403,3245,83,22,North America,Northern America,,1367882.0,331893745.0
+200,74,Budapest,126.8,54.0,65.2,52.3,49.0,14.3,38.9,53.8,78.4,"Budapest, Hungary",Hungary,1723836,4694893.372876731,3295,386,33,Europe,Eastern Europe,,120008.0,9709891.0
+201,161,Seoul,126.2,77.7,75.4,82.6,76.1,30.4,42.3,58.8,68.4,"Seoul, South Korea",South Korea,22394000,3959616.861089714,3426,748,17,Asia,Eastern Asia,,62140.0,51744876.0
+202,58,Tallinn,167.5,60.5,73.9,73.3,58.5,11.7,26.1,20.6,64.3,"Tallinn, Estonia",Estonia,438341,3152112.615384536,3530,118,20,Europe,Northern Europe,,20846.0,1330932.0
+203,203,San Diego,173.4,112.5,59.6,69.0,84.3,8.4,35.5,40.0,97.1,"San Diego, CA, United States",United States,3220118,11648037.506947696,3530,67,45,North America,Northern America,,1367882.0,331893745.0
+204,39,Winnipeg,133.5,76.6,41.0,68.4,65.1,6.5,31.2,37.0,24.7,"Winnipeg, Canada",Canada,705244,8408651.89824361,3613,21,33,North America,Northern America,,238681.0,38246108.0
+205,214,Kansas City,171.0,113.9,41.4,72.7,70.8,4.5,29.9,34.1,75.1,"Kansas City, MO, United States",United States,1636715,12977971.546090512,3621,21,119,North America,Northern America,,1367882.0,331893745.0
+206,238,Detroit,139.4,125.7,26.0,62.4,73.3,1.3,44.6,59.8,66.0,"Detroit, MI, United States",United States,3506126,8720002.981690332,3687,19,64,North America,Northern America,,1367882.0,331893745.0
+207,216,Milwaukee,170.4,147.6,32.6,65.2,71.6,5.7,32.5,33.5,61.0,"Milwaukee, WI, United States",United States,1365787,7052374.779445406,3782,6,31,North America,Northern America,,1367882.0,331893745.0
+208,230,Phoenix,157.9,135.5,46.7,66.6,73.8,2.8,32.6,56.6,53.8,"Phoenix, AZ, United States",United States,4219697,15471247.667765236,3859,28,40,North America,Northern America,,1367882.0,331893745.0
+209,239,New York,136.5,100.0,50.4,62.3,100.0,9.8,43.5,58.0,79.7,"New York, NY, United States",United States,18713220,11592025.98537706,3950,257,137,North America,Northern America,,1367882.0,331893745.0
+210,185,Edinburgh,183.1,92.9,68.9,78.8,61.2,8.4,29.7,28.1,84.0,"Edinburgh, United Kingdom",United Kingdom,488050,3140372.624601446,4047,68,9,Europe,Northern Europe,,640418.0,67326569.0
+211,202,Columbus,173.5,118.7,52.0,68.4,72.7,7.1,30.4,32.3,71.3,"Columbus, OH, United States",United States,1562009,13428262.67134468,4127,48,48,North America,Northern America,,1367882.0,331893745.0
+212,96,Rome,112.4,54.6,46.6,60.0,65.3,16.6,41.5,66.0,93.7,"Rome, Italy",Italy,2872800,7338646.656157536,4172,299,279,Europe,Southern Europe,,605081.0,59109668.0
+213,212,Albuquerque,172.2,148.1,28.1,62.8,69.4,3.8,29.2,34.8,67.1,"Albuquerque, NM, United States",United States,761195,11707737.892294131,4316,86,38,North America,Northern America,,1367882.0,331893745.0
+214,38,Hamilton,141.8,88.3,44.7,78.7,65.8,7.6,33.0,55.5,61.1,"Hamilton, Canada",Canada,693645,6524966.532282254,4385,57,20,North America,Northern America,,238681.0,38246108.0
+215,155,Bratislava,144.7,58.7,69.3,56.8,50.2,16.9,30.6,38.7,80.7,"Bratislava, Slovakia",Slovakia,475503,3759416.171760569,4400,294,6,Europe,Eastern Europe,,73715.0,5447247.0
+216,63,Munich,180.0,99.5,81.0,76.8,73.6,16.0,32.8,25.0,76.0,"Munich, Germany",Germany,1488202,4139020.65932308,4450,465,16,Europe,Western Europe,,2320615.0,83196078.0
+217,224,Denver,166.6,129.5,54.4,69.7,81.2,3.8,36.0,43.6,56.3,"Denver, CO, United States",United States,2876625,9247395.623216746,4586,112,14,North America,Northern America,,1367882.0,331893745.0
+218,134,Wroclaw,134.7,57.3,73.8,59.2,41.8,12.1,34.6,62.0,78.4,"Wroclaw, Poland",Poland,638586,3079263.8301672265,4844,62,10,Europe,Eastern Europe,,497557.0,37747124.0
+219,222,Houston,167.5,148.9,36.2,71.8,69.6,2.2,41.9,56.0,85.5,"Houston, TX, United States",United States,5464251,18661784.535661645,4888,289,69,North America,Northern America,,1367882.0,331893745.0
+220,147,Saint Petersburg,103.5,46.0,60.2,59.9,41.6,19.3,48.3,62.4,60.6,"Saint Petersburg, Russia",Russia,5384342,9507053.798698604,5079,346,660,Europe,Eastern Europe,,845431.0,143449286.0
+221,240,Los Angeles,135.9,113.6,47.5,62.8,79.4,7.4,60.9,66.7,95.5,"Los Angeles, CA, United States",United States,12750807,16199684.897044612,5160,94,124,North America,Northern America,,1367882.0,331893745.0
+222,33,Mississauga,167.4,103.4,57.3,69.8,63.4,9.2,37.3,24.0,58.7,"Mississauga, Canada",Canada,721599,11203763.849605976,5308,175,57,North America,Northern America,,238681.0,38246108.0
+223,59,Helsinki,191.2,101.0,74.9,79.2,69.6,9.5,27.9,13.3,62.8,"Helsinki, Finland",Finland,642045,3267381.998675838,5337,158,27,Europe,Northern Europe,,129326.0,5541017.0
+224,22,Sao Paulo,76.2,25.3,29.3,58.9,42.4,23.2,49.9,79.1,99.0,"Sao Paulo, Brazil",Brazil,22495000,9048566.23160777,5361,725,67,South America,South America,Latin America and the Caribbean,370000.0,214326223.0
+225,226,Washington,164.6,124.5,39.9,69.9,83.1,5.0,40.5,40.2,81.6,"Washington, DC, United States",United States,5379184,6952336.290800153,5382,90,784,North America,Northern America,,1367882.0,331893745.0
+226,120,Auckland,169.0,93.4,51.6,71.9,74.9,11.0,36.9,28.8,99.9,"Auckland, New Zealand",New Zealand,1346091,9915832.865668343,5768,566,52,Oceania,Australia and New Zealand,,54527.0,5122600.0
+227,235,Chicago,151.1,127.5,34.2,64.8,80.7,3.4,41.6,49.0,66.1,"Chicago, IL, United States",United States,8604203,16297355.780958492,6347,36,50,North America,Northern America,,1367882.0,331893745.0
+228,53,Prague,159.5,69.8,75.4,74.7,56.4,19.0,32.0,33.4,80.7,"Prague, Czech Republic",Czech Republic,1335084,5592272.774450385,6545,97,107,Europe,Eastern Europe,,164137.0,10505772.0
+229,200,Raleigh,173.8,104.6,61.2,67.7,80.3,6.4,36.3,31.6,83.9,"Raleigh, NC, United States",United States,1038738,14938609.122972025,7048,33,104,North America,Northern America,,1367882.0,331893745.0
+230,12,Minsk,115.9,36.8,42.9,48.3,37.4,14.0,30.7,41.9,64.4,"Minsk, Belarus",Belarus,2009786,7781282.580150735,7630,366,40,Europe,Eastern Europe,,124403.0,9340314.0
+231,8,Sydney,169.2,94.9,65.9,75.5,83.5,14.2,44.4,29.2,97.1,"Sydney, Australia",Australia,4840600,14270113.766691845,7855,766,145,Oceania,Australia and New Zealand,,199884.0,25688079.0
+232,133,Poznan,137.6,59.1,72.1,57.4,39.1,13.1,31.2,57.5,77.4,"Poznan, Poland",Poland,533830,3482088.4191482216,9172,191,39,Europe,Eastern Europe,,497557.0,37747124.0
+233,28,Ottawa,171.3,98.5,71.2,71.7,68.8,8.4,32.4,23.6,44.5,"Ottawa, Canada",Canada,989567,16304181.456303976,9437,69,104,North America,Northern America,,238681.0,38246108.0
+234,67,Hamburg,176.5,106.2,57.9,75.6,69.8,10.5,32.7,28.4,82.8,"Hamburg, Germany",Germany,1852478,7718514.148939807,9766,587,25,Europe,Western Europe,,2320615.0,83196078.0
+235,209,Indianapolis,172.5,128.4,41.4,73.6,74.4,2.0,29.5,42.2,69.9,"Indianapolis, IN, United States",United States,1588961,36322656.011852406,10754,33,207,North America,Northern America,,1367882.0,331893745.0
+236,68,Cologne,160.4,88.2,58.2,73.6,65.7,10.5,36.2,39.9,84.8,"Cologne, Germany",Germany,1083498,6138775.23033386,11638,0,6,Europe,Western Europe,,2320615.0,83196078.0
+237,206,Tucson,173.1,117.6,47.7,60.1,72.7,5.8,29.1,27.8,72.7,"Tucson, AZ, United States",United States,888486,21682836.86849668,11937,150,130,North America,Northern America,,1367882.0,331893745.0
+238,146,Moscow,108.5,56.2,63.2,65.6,42.3,23.5,50.6,56.1,55.8,"Moscow, Russia",Russia,17693000,15005529.281856127,12018,2040,1947,Europe,Eastern Europe,,845431.0,143449286.0
+239,193,London,129.3,82.5,46.2,70.1,75.6,15.7,44.6,57.9,88.3,"London, United Kingdom",United Kingdom,11120000,14732542.542114455,12960,584,47,Europe,Northern Europe,,640418.0,67326569.0
+240,135,Warsaw,133.5,59.1,74.1,60.5,44.7,14.4,35.2,59.6,74.6,"Warsaw, Poland",Poland,1790658,8588158.199968847,15348,121,32,Europe,Eastern Europe,,497557.0,37747124.0
+241,136,Krakow (Cracow),133.4,66.0,74.2,59.8,41.1,12.8,30.8,69.5,73.9,"Krakow (Cracow), Poland",Poland,766739,8588158.199968847,15348,121,32,Europe,Eastern Europe,,497557.0,37747124.0
+242,7,Melbourne,169.8,94.0,56.0,73.5,79.2,9.8,41.5,27.2,94.3,"Melbourne, Australia",Australia,4529500,29462176.62745973,18912,601,52,Oceania,Australia and New Zealand,,199884.0,25688079.0
+243,69,Berlin,158.1,91.9,56.6,68.1,69.7,11.7,34.2,39.2,83.3,"Berlin, Germany",Germany,3664088,11350931.37627813,19359,619,33,Europe,Western Europe,,2320615.0,83196078.0
+244,97,Tokyo,163.1,86.2,75.8,79.5,70.0,13.1,41.6,42.8,85.3,"Tokyo, Japan",Japan,39105000,12834368.795195095,23986,2377,23,Asia,Eastern Asia,,321046.0,125681593.0
